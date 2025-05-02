@@ -1,5 +1,3 @@
-
-
 """
 Programa: Calcula el índice de masa corporal
 Autor: Josafat Montiel Ortiz
